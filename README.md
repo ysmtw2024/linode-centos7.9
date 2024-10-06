@@ -13,3 +13,7 @@ wget --no-check-certificate /root/.acme.sh/acme.sh https://raw.githubusercontent
 chmod 755 /root/.acme.sh/acme.sh<br>
 （默认ssl使用zerossl.com，需要修改默认acme.sh的ssl文件生成路径把路径中<br>
 /www/server/panel/vhost/cert 域名的_ecc 去掉即可使用，后续或许需要升级备注待用）
+<br>
+内容资源来源：<br>
+bt历史版本：https://github.com/lolkda/LinuxPanel/<br>
+安装脚本借鉴:https://github.com/leitbogioro/Crack_BT_Panel<br>
